@@ -23,8 +23,8 @@ INSTALANDO GEMS:
 Abra o terminal na pasta testes/ e execute > bundle install
 
 RODANDO PROJETO: 
-comando <cucumber> no terminal. 
+Executar comando cucumber no terminal. 
 RODANDO POR TAG
-comando <cucumber -t '@tag'>
+Executar comando cucumber -t '@tag'
 
 
