@@ -1,0 +1,9 @@
+default: -p pretty -p homolog -p html -p chrome --publish
+pretty: --format pretty
+homolog: AMBIENTE=homolog
+html: --format html --out=report/relatorio.html
+
+chrome: BROWSER=chrome
+firefox: BROWSER=firefox
+safari: BROWSER=safari
+ie: BROWSER=ie
