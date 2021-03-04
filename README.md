@@ -1,5 +1,5 @@
 # Ruby Cucumber Capybara
-
+- Projeto de teste automatizado front-end desenvolvido em Ruby, PageObjects com SitePrism, utilizando BDD com Cucumber, métodos de configuração e testes do Capybara. Estrutura de automação utilizando variável de ambiente, com status report, execução nos navegadores Safari, IE, Chrome e Firefox.
 ## CONFIGURANDO AMBIENTE: 
 
 ### MACOS:
