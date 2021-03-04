@@ -3,7 +3,7 @@
 ## CONFIGURANDO AMBIENTE: 
 
 ### MACOS:
-- Instalar o homebrew > RUBY -E "$(curl -fssl https://raw.githubusercontent.com/homebrew/install/ master/install)"
+- Instalar o homebrew > RUBY -E "$(curl -fssl https://raw.githubusercontent.com/homebrew/install/master/install)"
 - Instalar o Rbenv > brew install rbenv ruby-build
 - Executar o comando > echo 'if which rbenv > /dev/null; then eval "$(rbenv init -)";
 fi' >> ~/.bash_profile
