@@ -20,7 +20,7 @@ fi' >> ~/.bash_profile
 - Baixar driver firefox (https://github.com/mozilla/geckodriver/releases) e colocar na pasta C:/
 
 ### INSTALANDO GEMS: 
-- Abra o terminal na pasta testes/ e execute > bundle install
+- Abra o terminal na pasta tests/ e execute > bundle install
 
 #### RODANDO PROJETO: 
 - Executar comando cucumber no terminal. 
